@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/shankarsala"><img src="https://img.shields.io/badge/GitHub-shankarsala-181717?style=flat&logo=github"></a>
   <a href="https://www.linkedin.com/in/shankarsala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://shankarsala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0F172A?style=flat&logo=vercel&logoColor=white"></a>
   <a href="mailto:shankarsala.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -19,6 +20,7 @@
 - 👯 Looking to collaborate on full stack Java / React projects and open source
 - 💬 Ask me about Java, Spring Boot, React.js, REST APIs, or PostgreSQL
 - 📫 Reach me at: **shankarsala.dev@gmail.com**
+-  🌐 Portfolio: **[shankarsala.vercel.app](https://shankarsala.vercel.app)**
 - ⚡ Fun fact: I enjoy turning real-world problems into production-ready applications, one commit at a time
 
 
@@ -96,6 +98,7 @@
 <p align="center">
   <a href="https://github.com/shankarsala"><img src="https://img.shields.io/badge/GitHub-shankarsala-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/shankarsala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://shankarsala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:shankarsala.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
